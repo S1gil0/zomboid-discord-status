@@ -1,5 +1,7 @@
 # Project Zomboid Discord Status Bot
 
+![Image](https://i.postimg.cc/mgrP2Bsy/5ggdgd.png)
+
 ## Description
 Project Zomboid Discord Status Bot connects to a Project Zomboid server via RCON to display the number of players online as the bot's activity status.
 
